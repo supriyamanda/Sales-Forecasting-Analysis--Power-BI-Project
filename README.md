@@ -80,5 +80,6 @@ To run the project in Power BI:
 - Automate data refresh for real-time updates of dashboards.
 
 ## Project Contributors
-- **Supriya** - Power BI Developer and Data Analyst
-- **Kalyani** - Power BI Developer and Data Analyst
+- **Supriya** - 
+- **Kalyani** - 
+- **AjayKonkitala** - 
