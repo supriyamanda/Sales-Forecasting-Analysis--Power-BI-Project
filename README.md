@@ -32,7 +32,7 @@ The dataset used for this analysis is from [Kaggle: Sales Forecasting Dataset](h
 ## Key Metrics & Visualizations
 1. **Total Sales**: Overall sales performance across the dataset.
 2. **Sales by Category**: Bar chart displaying sales per product category.
-3. **Sales by Region**: Regional sales performance visualized on a map.
+3. **Sales by State**: Statewise sales performance visualized on a map.
 4. **Sales by Customer Segment**: Pie chart showing the proportion of sales from different customer segments.
 5. **Sales Over Time**: Line chart tracking sales across different years and months.
 6. **Sales Forecasting**: 12-month sales forecast using historical data.
@@ -45,7 +45,7 @@ The dataset used for this analysis is from [Kaggle: Sales Forecasting Dataset](h
 
 ### 2. Analysis
 - **Sales by Category**: Created a bar chart showing sales distribution across `Category`.
-- **Sales by Region**: Visualized sales geographically using a map and bar chart.
+- **Sales by State**: Visualized sales geographically using a map and bar chart.
 - **Sales by Segment**: Analyzed sales per customer segment.
 - **Sales Trend**: Created a time series analysis to show sales trends over years and months.
 - **Sales Forecasting**: Applied Power BI's forecasting feature to predict sales for the next 12 months.
@@ -54,7 +54,7 @@ The dataset used for this analysis is from [Kaggle: Sales Forecasting Dataset](h
 Power BI was used to create interactive dashboards that included:
 - Total Sales
 - Sales by Product Category
-- Sales by Region (Map)
+- Sales by State (Map)
 - Sales by Customer Segment
 - Yearly and Monthly Sales Trends
 - Sales Forecasting
@@ -81,3 +81,4 @@ To run the project in Power BI:
 
 ## Project Contributors
 - **Supriya** - Power BI Developer and Data Analyst
+- **Kalyani** - Power BI Developer and Data Analyst
