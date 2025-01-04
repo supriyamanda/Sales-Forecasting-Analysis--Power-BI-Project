@@ -82,4 +82,3 @@ To run the project in Power BI:
 ## Project Contributors
 - **Supriya** - https://github.com/supriyamanda
 - **Kalyani** - https://github.com/chittipolukalyani
-- **AjayKonkitala** - https://github.com/AjayKonkitala
